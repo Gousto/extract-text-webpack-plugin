@@ -19,6 +19,10 @@
         "type": "array"
       }
     },
+	"ignoreOrder": {
+      "description": "Ignore order",
+      "type": "boolean"
+    },
     "filename": {
       "description": "The filename and path that ExtractTextPlugin will extract to",
       "type": "string"
